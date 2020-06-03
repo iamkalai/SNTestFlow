@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_0586_test_flow_table">x_0586_test_flow_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TAB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-03 17:35:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d64850f71b4dd8908ed631d7dc4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TAB</sys_name>
+        <sys_package display_value="Test Flow" source="x_0586_test_flow">32b7d4b71b0dd8908ed631d7dc4bcb7d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test Flow">32b7d4b71b0dd8908ed631d7dc4bcb7d</sys_scope>
+        <sys_update_name>sys_number_d64850f71b4dd8908ed631d7dc4bcbcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 17:35:43</sys_updated_on>
+    </sys_number>
+</record_update>
